@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get a list of images from Lorem Picsum","Send GET request to Lorem Picsum API","SUCCESS","2024-12-06T18:11:30.0601806-05:00[America/Bogota]","0.0","11.13"
+"Create Pet","Succesfully create post","SUCCESS","2024-12-06T17:17:48.5311568-05:00[America/Bogota]","0.0","8.61"

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Get a list of images from Lorem Picsum" skipped="0" tests="1" time="11.13" timestamp="2024-12-06 06:11:30"><testcase name="Send GET request to Lorem Picsum API"/></testsuite>
